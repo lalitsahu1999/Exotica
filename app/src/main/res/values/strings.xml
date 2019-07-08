@@ -1,0 +1,642 @@
+<resources>
+    <string name="app_name">Exotica</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">NIT,BBSR</string>
+    <string name="nav_header_subtitle">nitbbsr_2007@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Events</string>
+    <string name="title_notifications">Results</string>
+    <string name="title_activity_robotics">ROBOTICS</string>
+    <string name="title_activity_education">LITERARY-EVENTS</string>
+    <string name="title_activity_cultural">CULTURAL EVENTS</string>
+    <string name="title_activity_sports">SPORTS</string>
+    <string name="title_activity_carrom">CARROM</string>
+    <string name="title_activity_cricket">CRICKET</string>
+    <string name="title_activity_chess">CHESS</string>
+    <string name="title_activity_khokho">KHO-KHO</string>
+    <string name="title_activity_kabaddi">KABADDI</string>
+    <string name="title_activity_pubg">PUBG</string>
+    <string name="title_activity_counter_strike">COUNTER-STRIKE</string>
+    <string name="title_activity_nfs">NFS-MOST WANTED</string>
+    <string name="title_activity_tabletennis">TABLE-TENNIS</string>
+    <string name="title_activity_tugofwar">TUG-OF-WAR</string>
+    <string name="title_activity_volleyball">VOLLEYBALL</string>
+    <string name="title_activity_musical">MUSICAL CHAIRS</string>
+
+
+    <string name="rules_and_regulation">Rules and Regulation</string>
+    <string name="carrom">\n\n1. Participant can be individual or in pairs of own choice.
+        \n\n2.It is complete knock-out tournament.
+        \n\n3.Everybody must be present 15 minutes before his/her match in order to avoid forfeit.
+        \n\n4.No entries are entertained after the completion of 1st round of the tournament.
+        \n\n5.Detailed rules:-
+        \n\ni) Striking:-
+        \n\n *)A Striker within the baseline must touch both the front line and the rear line.
+        \n\n *)The striker may not cut the moon- be placed partially within the baseline and partially within the circle
+        \n\n *)The player must flick the striker with one finger so that it crosses the front baseline- it is not permitted to flick backwards or horizontally.
+        \n\n *)A piecce that is on or behind the front baseline must not be struck by the striker until the striker has crossed the front baseline.
+        \n\n *)In striking the players hand or arm must not cross the diagonal foul lines at either end of the baseline.
+        \n\nii)Fouls/Penalty-
+        \n\na)A foul is recorded in the following situations:-
+        \n\n*)The striker is pocketed.
+        \n\n*)The striker or any other piece leaves the board.
+        \n\n*)A player pockets an opponents piece.Regardless of whether the queen has been covered, the opponents piece is returned to the center in addition to the penalty piece.
+        \n\n*)A player contravenes the rules for striking.
+        \n\n*)A player touches any piece in play, other than the striker.
+        \n\n*)The first player to strike fails to break the counters in three attempts.
+        \n\n7.All league matches will be of 10 minutes but semi-final and final will be of 15 minutes.
+        \n\n8.If there will be a tie then there will be again a match of 3 minutes.
+        \n\n9.On the point basis winner will be declared.
+        \n\n10.The participants must be present at the venue at the time of the event.Any absence without notifying the event co-ordinators will result in forfeit.
+        \n\n11.The decision of the judges/ co-ordinators shall be final and binding on all participants.\n\n\n
+    </string>
+    <string name="carromvenue">\n-Date:
+        \n\n-Time:
+    </string>
+    <string name="carromcoordinator">\n1.
+        \n\n2.
+        \n\n3.
+    </string>
+    <string name="rules_regulations">Rules $ Regulations</string>
+
+    <string name="chess">\n\n1.Individual participation.
+    \n\n2.Game will be played according to the authorised blitz(rapid) tournament.
+    \n\n3.Everybody must be present 15 minutes before his/her match in order to avoid walkover.
+    \n\n4.No entries are entertained after the completion of 1st round of the tournament.
+    \n\n5.Total time for match is of 16 minutes.
+    \n\n6.Each player will be given total time of 8 minutes to think and make moves.
+    \n\n7.The one whose time gets out first will lose irrespective of situation of the game.
+    \n\n8.The participant must be present at the venue at the time of the event. Any absence without notifying the event co-ordinators will result in forfeit.
+    \n\n9.If the player wins on the board before time, then time will not be taken into account.
+    \n\n10.Each volunteers will record time for both the players.
+    \n\n11.The decision of the judges/co-ordinators shall be final and binding on all participants.\n\n\n</string>
+    <string name="chessvenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="chesscoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+
+    <string name="cricketcoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="cricketvenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="cricket">\n\n1.Branch wise participation is only allowed.
+    \n\n2.Each branch will have 15 members in the team.
+    \n\n3.Registration is only done through their respective departments.
+    \n\n4.The league matches will be 12 overs each and the FINAL will be 15 overs each.
+    \n\n5.Each inning must be completed in 50 minutes.Penalty will be imposed if the bowling team takes more time to complete thier quota.The net run rate will be deducted for the respective team.
+    \n\n6.The standard ICC rules will be followed.
+    \n\n7.The POWERPLAY field restrictions will be applied for first 3 Overs and for the FINAL it will be applied for the first 4 Overs.
+    \n\n8.Bowling restrictions:2 bowlers will bowl 3 Overs each and the rest will bowl 2 Overs each.For the final each bowler will bowl no more than 3 Overs.
+    \n\n9.In case of a tie, a super over will be played.
+    \n\n10.Super over rules are as follow:-
+        \n\n*No field restrictions, 3 batsmen and 1 bowler are to be selected.
+    \n\n11.The team which fails to make it in time for the match will be forced to forfeit.
+        \n\n12.The decision of the umpires/co-ordinators shall be final and building on all participants.\n\n\n</string>
+
+    <string name="kabaddi">\n\n1.Branch wise participation is only allowed.
+    \n\n2.Each branch will have 15 members in the team.
+    \n\n3.Registration is only done through their respective departments.
+    \n\n4.This will be a knock-out match.
+    \n\n5.In this game the players will give Rs 50 for registration to the captain.
+    \n\n6.Seven players can be playing in this game and other 5 for subsitute purpose.
+    \n\n7.Each match must be completed in 40 mins.
+    \n\n8.One team can subsitute for 5 times.
+    \n\n9.A raider shall continue to chant only KABADDI.
+    \n\n10.A raider will get maximum 1 minute to come back to his side or else opponent team will get point.
+    \n\n11.Not more than one raider shall enter to the opponent court at a time otherwise the opponent team will be given one technical point.
+    \n\n12.When the raider is held,the opponents shall not try to shutting his mouth if so then the raider is not out and the raider will earn point.
+    \n\n13.In case of defending,the defender has to defend the raider carefully and spears are prohibited.
+    \n\n14.The players have to bring their own safety kits.
+    \n\n15.Without lobby the other point rules are allowed according to the KABADDI rules.
+    \n\n16.The team which fails to make it in time for the match will be forced to forfeit.
+    \n\n17.The decision of the umpires/co-ordinators shall be final and building on all participants.\n\n\n</string>
+    <string name="kabaddivenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="kabaddicoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="counterStrikecoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="counterStrikevenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="counterStrike">\n\n1.Paticipation in a group of 5 members.
+    \n\n2.Game Version: Counter-Strike 1.6
+    \n\n3.Ten rounds will be played. the first team to win 6 or more rounds is declared winner.
+    \n\n4.In case of tie, 5 rounds will be played again. The team to win 3 rounds will be declared as winner.
+    \n\n5.Each team will play 5 rounds as Terrorist and 5 rounds as Counter-terrorist.
+    \n\n6.Single round time: 2 min
+    \n\n7.Approved Grenades amounts per rounds:-
+        \n\n*Flashbangs:2
+        \n\n*Grenades:1
+        \n\n*Smoke Grenades:1
+    \n\n8.Any more use of Grenades will loss of rounds or even match loss by team.
+    \n\n9.Participants can also bring their gaming accessories.
+    \n\n10.The participant must be present at the venue at the time of the event. Any absence without notifying the event co-ordinators will result in forfeit.
+    \n\n11.The decision of the judges/co-ordinators shall be final and binding on all participants.\n\n\n</string>
+
+    <string name="nfscoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="nfsvenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="nfs">\n\n1.Individual participation.
+    \n\n2.There will be single knock out race for each participants.
+    \n\n3.The candidate getting the pole position will be promoted to the next round.
+    \n\n4.There are three types of challenges:-
+    \n\n*Sprint Race (Single lap race).
+        \n\n*Circuit Race (More than one laps are there).
+        \n\n*Drift race (Short lap race).
+    \n\n5.In Sprint and Circuit race, cars have Auto Transmission.
+        \n\n6.In Drift race,cars have Manual Transmission\n\n\n</string>
+
+
+    <string name="khokhocoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="khokhovenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="khokho">\n\n1.Branch wise participation is only allowed.
+    \n\n2.Each branch will have 12 members in the team.(mandatory)
+    \n\n3.The game will be in two halves one for chasing and another for defending.
+    \n\n4.For any dispute or misunderstanding only the captain of the respective team can appeal to the refree.
+    \n\n5.All players should keep their emotions away of the game.\n\n\n</string>
+
+
+    <string name="tabletenniscoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="tabletennisvenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="tabletennis">\n\n1.Individual Participation.
+    \n\n2.A game is started when one player (server) makes a service before the receiver makes the return.
+    \n\n3.A point is scored when:-
+    \n\n*)An opponent fails to make a correct service.
+        \n\n*)An opponent fails to make return.
+        \n\n*)The ball touches any part of an opponent body.
+        \n\n*)An opponent strikes the ball twice in succession.
+        \n\n*)If an opponent, or anything an opponent wears, touches the playing surface or net during play.
+        \n\n*)If a double opponent strikes the ball out of the sequence established by the first server and first receiver.
+    \n\n4.The participant must be present at the venue at the time of the event. Any absence without notifying the event co-ordinators will result in forfeit.
+    \n\n5.The decision of the refree/co-ordinators shall be final and building on all participants.\n\n\n</string>
+
+    <string name="tugofwarcoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="tugofwarvenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="tugofwar">\n\n1.Branch wise participation is only allowed.
+    \n\n2.Participation in a group consisting of 6 members.
+    \n\n3.Registration will done through their respective departments.
+    \n\n4.A white mark is made exactly 5 feet from the white mark on either sides of the rope.
+    \n\n5.The game is won when either side with  this white mark crosses the centre point.
+        \n\n6.The team which fails to make it in time for the match will be forced to forfeit.
+    \n\n7.The decision of the refree/co-ordinators shall be final and building on all participants.\n\n\n</string>
+
+    <string name="volleyballcoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="volleyballvenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="volleyball">\n\n1.Branch wise participation is only allowed.
+    \n\n2.Each branch will have 10 members in the team.
+    \n\n3.Maximum points is 24.
+    \n\n4.Six players on a team, 3 on the front row and 3 on the back row.
+    \n\n5.Maximum of three hits per side.
+        \n\n6.Player may not hit the ball twice in succession(A block is not considered a hit).
+        \n\n7.Ball may be played off the net during a volley and on a serve.
+        \n\n8.A ball hitting a boundary line in IN.
+        \n\n9.A ball is OUT if it hits:-
+        \n\n*)an antennae.
+        \n\n*)the floor completely outside the court.
+        \n\n*)any of the net or cables outside the antennae.
+        \n\n*)the refree stand or pole.
+        \n\n*)the ceiling above a non playable area.
+        \n\n11.It is legal to contact the ball with any part of a players body.
+        \n\n12.It is illegal to catch,hold,or throw the ball.
+        \n\n13.If two or more players contact the ball at the same time, it is considered one play and either player involved may make the next contact.
+        \n\n14.A player cannot block or attack a serve from on or inside the 10 foot line.After the serve, front line players may switch positions at the net.
+        \n\n15.The team which fails to make it in time for the match will be forced to forfeit.
+    \n\n16.The decision of the refree/co-ordinators shall be final and building on all participants.\n\n\n</string>
+
+    <string name="musicalcoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="musicalvenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="musical">\n\n1.Individual participation is allowed.
+    \n\n2.All the participants should have to present at the venue 10 minutes before the schedule.
+    \n\n3.The event will be in the circular queue.
+    \n\n4.The music will be stopped for each round.
+    \n\n5.The participants have to occupy a chair only after the music will be stopped.
+        \n\n6.They dont have to touch the chair during the music playback this will lead to disqualification.
+    \n\n7.The participants dont have to overtake the next participants.
+        \n\n8.The participants not occupying the chair will lead to disqualification.\n\n\n</string>
+
+
+    <string name="title_activity_antakshari" >ANTAKSHARI</string>
+    <string name="title_activity_dance">DANCE-A-THON</string>
+    <string name="title_activity_dueto">DUETO_VOCO</string>
+    <string name="title_activity_dumb">DUMB-CHARADES</string>
+    <string name="title_activity_got">NITs GOT TALENT</string>
+    <string name="title_activity_rangoli">RANGOLI</string>
+    <string name="title_activity_roadies">ROADIES</string>
+    <string name="title_activity_step">STEP-UP</string>
+    <string name="title_activity_vocoid">VOCA-IDOLO</string>
+
+    <string name="antaksharicoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="antaksharivenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="antakshari">\n\n1.Participation in a group consisting of 5 members.
+    \n\n2.Branch wise participation is only allowed.
+    \n\n3.Registration is only done through their respective departments.
+    \n\n4.There will be 4 rounds:-
+        \n\nRound-1: Shabd Jaal(Without Negative Marking)
+        \n\n* One word would be given to each team and that team would have to sing the first two lines of songs, having the given word.
+        \n\nRound-2: Main Hoon Kaun(Without Negative Marking)
+        \n\n* One participant would have to pick one chit from a bowl containing chits bearing names of different Bollywood movies and declare the name of movie and the other participant of that group and sing a song of that movie within 1 minute.
+        \n\nRound-3: Jodi Round(With Negattive Marking)
+        \n\n* Each team will be passed a bowl containing some chits.
+        \n\n* Each chit will carry the name of some jodi.
+        \n\n* One team member will be asked to tell a movie by that jodi.
+        \n\n* The team has to sing a duet song of that jodi within 15 seconds.
+        \n\nRound-4: Mein Aawaz Sunau(With Negative Marking)
+        \n\n* This will be an audio round, based on Bollywood movie songs.
+        \n\n* The signature tune of a song will be played on the audio player for about 10 seconds.
+        \n\n* The participants will have to recognize the song correctly and sing the mukhda of the song within 5 seconds after raising theirhands first without uttering noises or howling.
+        \n\n* The team which raise their hand first will get to sing the song. If the song will be wrong, then there will be minus point.
+        \n\n* If there will be tie among the teams then 4th round will be repeated once more with 2x negative points.
+        \n\n* Each team must consist atleast one member from 1st Year.
+        \n\n* The team which fails to make  it in time for the match will be forced forfeit.
+        \n\n*The decision of the refree/co-ordinators shall be final and building on all participants.\n\n\n</string>
+
+    <string name="dancecoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="dancevenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="dance">\n\n1.Individual participation.
+    \n\n2.Time to perform will be 4 minutes maximum. Negative points for exceeding the time limit.
+    \n\n3.The participants are requested to bring their song/music in a storage device and also requested to submit it to the coordinator of the event to avoid technical disturbance.
+    \n\n4.The participants will be judged on their costumes, visual presentation and dance form. There is no particular theme.
+    \n\n5.Participants should get their own props. All props must be specified to the event coordinator.
+    \n\n6.Lighting of matchsticks, candles and cigarettes or any derogatory acts are strictly not allowed on stage.
+    \n\n7.Choice of song is open to the particpants.
+    \n\n8.Any obscene / offensive music /song is not allowed.
+    \n\n9.The participants must be present at the venue before 10 to 15 minutes of event. Any absence without notifying the event co-ordinators will result in forfeit.
+    \n\n10.The decision of the judges/co-ordinators shall be final and building on all participants.\n\n\n</string>
+
+    <string name="duetocoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="duetovenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="dueto">\n\n1.Duet participation is only allowed.
+    \n\n2.No branch and year restriction will be there.
+    \n\n3.Pairs can be formed by any branches and any years.
+    \n\n4.Time alloted for each performance is 4 to 5 minutes.
+    \n\n5.Participants will not be allowed to refer to the lyrics while singing.
+    \n\n6.The participants will be judged on the song selection, voice quality, clarity, rhythm and their appeal to the audience.
+    \n\n7.The participants should bring their own musical instruments if required in the performance.
+    \n\n8.Choice of song is open to the participants but the song should not have any slangs or derogatory language and any language songs are allowed.
+    \n\n9.The participants must be present at the venue before 10 to 15 minutes of event. Any absence without notifying the event co-ordinators will result in forfeit.
+    \n\n10.The decision of the judges/co-ordinators shall be final and building on all participants.\n\n\n</string>
+
+    <string name="dumbcoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="dumbvenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="dumb">\n\n1.Participation in a group consisting of 5 members.
+    \n\n2.Branch wise participation is only allowed.
+    \n\n3.Registration is done only through their respective departments.
+    \n\n4.Only one person(Actor) among the team should come in front to get a chit from the pool with a word/ movie name.
+    \n\n5.Actor will stand at least 5 feet away from partners.
+    \n\n6.No sounds or lip movements are allowed.
+    \n\n7.Actor cannot point to any object or person to show something.
+    \n\n8.Any obscene / offensive music /song is not allowed.
+    \n\n9.Actor annot point to any object or person to show something.
+        \n\n10.Actor will have 5 minutes to explain the movie name and if their team will guess the correct movie then they will get points.
+        \n\n11.Atleast one member from 1st year.
+        \n\n12.The team which fails to make it in time for the match will be forced to forfeit.
+    \n\n13.The decision of the judges/co-ordinators shall be final and building on all participants.\n\n\n</string>
+
+    <string name="gotcoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="gotvenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="got">\n\n1.Individual participation.
+    \n\n2.The participants are allowed to exhibit his/her talent other than singing or dancing.
+    \n\n3.Time to perform:
+    \n\n4.No kind equipment will be provided to the participants, they have to do their own arrangements by informing the event coordinators.
+    \n\n5.The participants must be present at the venue before 10 to 15 mins of event. Any absence without notifying the event co-ordinators will resut in forfeit.
+    \n\n6.The decision of the judges/co-ordinators shall be final and building on all participants.
+        \n\n7.Time limit is upto 1 hr.\n\n\n</string>
+
+    <string name="rangolicoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="rangolivenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="rangoli">\n\n1.Participation can be individual or in pairs of own choice.
+    \n\n2.Rangoli should be done only with rangoli powder and any other required material should be arranged bt the participants themselves.
+    \n\n3.However, use of any refrence such as greetings or printed material?picture, in miniature form or otherwise should be avoided.
+    \n\n4.Dimension of the rangoli = (1 x 1)m.
+    \n\n5.The participants must be present at the venue before 10 to 15 mins of event. Any absence without notifying the event co-ordinators will resut in forfeit.
+    \n\n6.The decision of the judges/co-ordinators shall be final and building on all participants.\n\n\n</string>
+
+    <string name="roadiescoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="roadiesvenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="roadies">\n\n1.Participation in a group consisting of 6 members.
+    \n\n2.Branch wise participation is only allowed.
+    \n\n3.Registration is done only through their respective departments.
+    \n\n4.This event is a physical fitness type of event.
+    \n\n5.Some games like treasure hunt, pushup, etc.
+    \n\n6.More games will be declared on the spot.
+    \n\n7.Gaming supplements will be supplied during events.
+            \n\n8.The team which fails to make it in time for the match will be forced to forfeit.
+    \n\n9.The decision of the judges/co-ordinators shall be final and building on all participants.\n\n\n</string>
+
+    <string name="stepcoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="stepvenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="step">\n\n1.Participation in a group consisting of 4-6 members.
+    \n\n2.Branch wise participation is only allowed.
+    \n\n3.Registration is done only through their respective departments.
+    \n\n4.Time to perform will be 4 mins maximum. Negative points for exceeding the time limit.
+    \n\n5.The participants are requested to bring their song/music in a storage device and also requested to submit it to the coordinator of the event before the beginning of the event to avoid technical disturbance.
+    \n\n6.The participants will be judged on their costumes, visual presentation and dance form. There is no particular theme.
+    \n\n7.Participants should get their own props. All props must be Specified to the event coordinator.
+        \n\n8.Lighting of matchstick, candles and cigarettes or any derogatory acts are strictly not allowed on stage.
+        \n\n9.Choice of song is open to the participants.
+        \n\n10.Any obscene / offensive music / song is not allowed.
+            \n\n11.The team which fails to make it in time for the match will be forced to forfeit.
+    \n\n12.The decision of the judges/co-ordinators shall be final and building on all participants.\n\n\n</string>
+
+    <string name="vocoidcoordinator"><color>\n1.
+        \n\n2.
+        \n\n3.</color></string>
+    <string name="vocoidvenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="vocoid">\n\n1.Voca idolo consist of two rounds preliminiary and finale.
+    \n\n2.Preliminiary:-
+    \n\n* Time alloted for each performance is 4 to 5 minutes. Negative points for exceeding the time limit.
+    \n\n* Participants will not be allowed to refer to the lyrics while singing.
+    \n\n* The participants will be judged on the song selection, voice quality, clarity, rhythm and their appeal to the audience.
+    \n\n* The participants should bring their own musicsl instruments if required in the performance or they can bring their own karoke tracks.
+    \n\n* Participants can also bring accompany maximum one person for playing instruments during his/her performance.
+    \n\n* Choice of song is open to the participant but the song should not have any slangs or derogatory language and any language songs are allowed.
+    \n\n* The participants must be present at the venue before 10 to 15 mins of event. Any absence without notifying the event co-ordinators will resut in forfeit.
+    \n\n* The decision of the judges/co-ordinators shall be final and building on all participants.
+    \n\n* Top 5 contestant will be selected by the judges and they will be promoted for final round.
+    \n\n3.Finale:-
+    \n\n* Time alloted for each performance is 4 to 5 minutes. Negative points for exceeding the time limit.
+    \n\n* In this round, no karoke tracks will be allowed but contestant can use their own music instruments.
+    \n\n* Choice of song is open to the participant but the song should not have any slangs or derogatory language and any language songs are allowed.
+    \n\n* The participants must be present at the venue before 10 to 15 mins of event. Any absence without notifying the event co-ordinators will resut in forfeit.
+    \n\n* The decision of the judges/co-ordinators shall be final and building on all participants.\n\n\n</string>
+
+    <string name="title_activity_writting">ESSAY-WRITTING</string>
+    <string name="title_activity_group">GROUP-DEBATE</string>
+    <string name="title_activity_just">JUST-A-MINUTE</string>
+    <string name="title_activity_spell">SPELL-BEE</string>
+    <string name="title_activity_turn">TURN-A-COAT</string>
+    <string name="title_activity_mind">MIND-PORTAL</string>
+
+
+    <string name="writtingcoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="writtingvenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="writting">\n\n1.Individual participation.
+    \n\n2.Topic will be given on the spot.
+    \n\n3.Participants have to only come with their writting materials.
+    \n\n4.Sheet for writting will be provided by college.
+        \n\n5.Time alloted - 45 mins only for writting the essay.
+        \n\n6.Maximum word limit upto 1500 words.
+    \n\n7.The participants must be present at the venue before 10 to 15 mins of event. Any absence without notifying the event co-ordinators will resut in forfeit.
+    \n\n8.The decision of the judges/co-ordinators shall be final and building on all participants.\n\n\n</string>
+
+
+    <string name="groupcoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="groupvenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="group">\n\n1.Participation in a group consisting of 4-6 members.
+    \n\n2.Branch wise participation is only allowed.
+    \n\n3.Registration is done only through their respective departments.
+    \n\n4.The first 5 speakers and the final speaker will receive individual grades and the group will receive a group grade.
+        \n\n5.The floor speakers (from audience or judges) will not receive an individual grade but their performance will be an important part of the group grade.
+        \n\n6.<font fgcolor='#0000FF'>Order of event is:-</font>
+    \n\n* 1st speaker
+    \n\n* 2nd speaker
+    \n\n* 3rd speaker
+    \n\n* 4th speaker
+    \n\n* 5th speaker
+    \n\n7.Two floor speakers to ask questions of the opposing team.
+    \n\n8.Final speaker for the conclusion.
+    \n\n9.All speakers in the debate will have 2 minutes to deliver thier speech, expect the concluding speaker who has 3 minutes. A signal will be given 30 seconds before time is up, and repeatedly after a 15 second buffer. If the speaker goes over this buffer mark the team will be deducted points for every 5 seconds overtime.
+    \n\n10.The first two speakers from each team will speak alternately, beginning with the first speaker of the team-A, followed by the first speaker of the team-B, followed by the second speaker of team-A, and finalluy the second speaker of team-B.
+        \n\n11.At this point the debate will be open to question from the floor speakers. The floor speaker supporting team-A will ask team-B a question first, then the floor speaker supporting team-B will ask team-A question. This process will be repeated with a second floor speaker supporting team-A asking team-B a question and then a second speaker supporting team-B asking team-A question.
+    \n\n12.The floor speaker has 1 minutes to ask the question. A signal will be given 15 seconds before the time is up and twice when the time is up. The team to which the question is directed has one minute to prepare their answer and one minute to deliver their answer.
+    \n\n13.The final speakers of both teams will be given 1 minute to prepare their speech. Here the order of presentations will switch. The final speaker of team-B will deliver his/her speech first followed by the final speaker of team-A.
+    \n\n14.Each team must consist atleast one member from 1st year.
+    \n\n15.The team which fails to make it in time for the match will be forced to forfeit.
+    \n\n16.The decision of the judges/co-ordinators shall be final and building on all participants.\n\n\n</string>
+
+
+    <string name="justcoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="justvenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="just">\n\n1.Individual participation.
+    \n\n2.Topic will be given on the spot.
+    \n\n3.Participants have to speak on the topic provided without breaks.
+    \n\n4.Participants have 2 minutes to prepare their answer and 1 minute to deliver the answer.
+        \n\n5.Mode of communication is only English.
+    \n\n6.The participants must be present at the venue before 10 to 15 mins of event. Any absence without notifying the event co-ordinators will resut in forfeit.
+    \n\n7.The decision of the judges/co-ordinators shall be final and building on all participants.\n\n\n</string>
+
+
+    <string name="spellcoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="spellvenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="spell">\n\n1.Individual participation.
+    \n\n2.Judge your spelling skills.
+    \n\n3.10 words will be given on the spot one by one simultaneously after completing the previous one.
+        \n\n4.Participants will have 15 seconds to prepare and deliver the answer in appropriate alphabets by spelling.
+        \n\n5.There will be 4 lifetime for an individual.
+        \n\n6.If the participants delivers wrong spell then one life time will be deducted. After the fourth one the participant will be forfeit from the event.
+    \n\n7.The participants must be present at the venue before 10 to 15 mins of event. Any absence without notifying the event co-ordinators will resut in forfeit.
+    \n\n8.The decision of the judges/co-ordinators shall be final and building on all participants.\n\n\n</string>
+
+    <string name="turncoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="turnvenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="turn">\n\n1.Individual participation.
+    \n\n2.Participants will be given two minutes to express their views i.e. 1 minutes for and one minute against a topic without any break.
+    \n\n3.10 words will be given on the spot one by one simultaneously after completing the previous one.
+        \n\n4.Participants have 5 minutes to prepare their answer.
+        \n\n5.Each participants will face with 4 to 6 individual opponents.
+        \n\n6.Topic will be provided on the spot.
+    \n\n7.The participants must be present at the venue before 10 to 15 mins of event. Any absence without notifying the event co-ordinators will resut in forfeit.
+    \n\n8.The decision of the judges/co-ordinators shall be final and building on all participants.\n\n\n</string>
+
+    <string name="mindcoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="mindvenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="mind">\n\n1.Individual participation.
+    \n\n2.Each participant will face 3 rounds and each round will be of 1 minute.
+    \n\n3.This event is Do-or-Die type of event i.e either attempt and try to complete or leave it.
+        \n\n4.Example of some tasks are throw darts, spoon ball game etc…
+        \n\n5.Each participants will face with 4 other individual opponents.
+        \n\n6.More task will be declared during the event.
+    \n\n7.The participants must be present at the venue before 10 to 15 mins of event. Any absence without notifying the event co-ordinators will resut in forfeit.
+    \n\n8.The decision of the judges/co-ordinators shall be final and building on all participants.
+        \n\n9.On the point basis winner will be declared.\n\n\n</string>
+
+    <string name="roboticscoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="roboticsvenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="robotics">\n\n1.Participation in a group consisting of 3-4 members.
+    \n\n2.Participants other than the members of the college robotics club Robo Cylons can do registrations by paying Rs 100 per team.
+    \n\n3.All the gadgets and equipment like 4 wheel powered bot, remote etc will be provide by the club.
+    \n\n4.Before race, the event co-ordinators or the club co-ordinators will train the participants about the event and how to complete the task.
+    \n\n5.There are many task like hurdles crossing, hanging bridge crossing etc.
+    \n\n6.For any technical problem the team will get technical Time Out and event Co-ordinators or club members will try to sort out the problem.
+    \n\n7.Participants should always keep in mind not to pose any type of destruction to the arena.
+            \n\n8.The team which fails to make it in time for the match will be forced to forfeit.
+    \n\n9.The decision of the judges/co-ordinators shall be final and building on all participants.\n\n\n</string>
+    <string name="full_name">Full Name</string>
+
+
+    <string-array name="branch">
+        <item>Branch</item>
+        <item>Mech</item>
+        <item>CSE</item>
+        <item>Civil</item>
+        <item>ECE</item>
+        <item>EEE</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>Year</item>
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4rth</item>
+
+    </string-array>
+
+    <string name="ccarrom">Carrom</string>
+    <string name="cchess">Chess</string>
+    <string name="ccounter">Counter-Strike</string>
+    <string name="cpubg">PUBG</string>
+    <string name="ctable">Table-Tennis</string>
+    <string name="cnfs">NFS-Most Wanted</string>
+    <string name="cmusical">Musical-Chairs</string>
+    <string name="cessay">Essay-Writing</string>
+    <string name="cjam">Just a minute</string>
+    <string name="cspell">Spell-Bee</string>
+    <string name="cturn">Turn-Coat</string>
+    <string name="cmind">Mind-Portal</string>
+    <string name="cdance">Dance-A-Thon</string>
+    <string name="cdueto">Dueto-Voco</string>
+    <string name="cgot">NIT-Got Talent</string>
+    <string name="crangoli">Rangoli</string>
+    <string name="cvocoid">Voco-Idolo</string>
+    <string name="title_activity_gallery">team</string>
+    <string name="title_activity_team">Gallery</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="nalanda"><font fgcolor="#FDB9B9"> Nalanda Institute of Technology</font>
+    \n <font fgcolor="#D0F899">reaffirms its pledge to provide
+    \n quality education by imparting value
+            \n and quality based teaching to the</font>
+    \n <font fgcolor="#D0F899">students of eastern India in
+            \n general and the students of Odisha in</font>
+    \n<font fgcolor="#D0F899"> in particular and facilitates the
+            \n students to materialize the Dreams Unlimited</font></string>
+
+    <string name="address"> Buddhist Villa Chandaka, Khandagiri - Chandaka Rd,
+    \nBhubaneswar, Odisha 754005</string>
+
+    <string name="pubgcoordinator">\n1.
+        \n\n2.
+        \n\n3.</string>
+    <string name="pubgvenue">\n\n-Date:
+        \n\n-Time:</string>
+    <string name="pubg">\n\n1.Individual participation.
+     \n\n2.This event is Do-or-Die type of event i.e either attempt and try to complete or leave it.\n\n\n</string>
+
+    <string name="link">http://www.thenalanda.com/ <a href="http://www.thenalanda.com/"></a></string>
+
+    <string name="websiteDesc">Kindly prefer Google chrome</string>
+    <string name="title_activity_about">About</string>
+
+    <string name="ques1"><font fgcolor="#E80051F3">Q1.</font><font fgcolor='#D0F899'> What is Exotica???</font></string>
+
+    <string name="ans1"><font fgcolor='#FDB9B9'> Exotica, the Annual Techno-Management Fest
+    \n  of Nalanda Institute of Technology,
+    \n  Bhubaneswar is our biggest college
+    \n  festival.
+    \n  It will span for 5 days.
+    \n  The spirit of Exotica lies in Encouraging sound practices, making
+    \n  precsion engineering a way of life,
+    \n  Effectively bringing about a paradigm
+    \n  shift from classroom  to path-breaking innovation.</font></string>
+
+    <string name="ques2"><font fgcolor="#E80051F3">Q2.</font><font fgcolor='#D0F899'> What are the types of events in Exotica???</font></string>
+
+    <string name="ans2"><font fgcolor='#FDB9B9'> Exotica is plethora of many events.
+    \n It includes branch events, gaming events ,
+    \n formal events , fun events , etc.</font></string>
+
+    <string name="ques3"><font fgcolor="#E80051F3">Q3.</font><font fgcolor='#D0F899'> How can you participate???</font></string>
+
+    <string name="ans3"><font fgcolor='#FDB9B9'> You can get register through this app
+    \n on pariticular events.</font></string>
+
+    <string name="ques4"><font fgcolor="#E80051F3">Q4.</font><font fgcolor='#D0F899'> Are there any online events???</font></string>
+
+    <string name="ans4"><font fgcolor='#FDB9B9'> No, there is no online events.</font></string>
+
+    <string name="ques5"><font fgcolor="#E80051F3">Q5.</font><font fgcolor='#D0F899'> Is there any special arrangement of bus for girls during DJ night of Exotica???</font></string>
+
+    <string name="ans5"><font fgcolor='#FDB9B9'> Yes! Girls would be provided a Bus and a special mirror environment after the sunset.</font></string>
+
+    <string name="ques6"><font fgcolor="#E80051F3">Q6.</font><font fgcolor='#D0F899'> Still have a query???</font></string>
+
+    <string name="ans6"><font fgcolor='#FDB9B9'> Contact:-
+        \n Lalit Prasad -</font> <font fgcolor= '#000'>9304864742</font></string>
+
+
+
+</resources>

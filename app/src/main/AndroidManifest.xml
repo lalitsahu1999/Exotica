@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.exotica">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/splash"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logonew"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".About"
+            android:label="@string/title_activity_about"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.MainActivity" />
+        </activity>
+        <activity
+            android:name=".team"
+            android:label="@string/title_activity_team"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.MainActivity" />
+        </activity>
+        <activity
+            android:name=".gallery"
+            android:label="@string/title_activity_gallery"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.MainActivity" />
+        </activity>
+        <activity
+            android:name=".mind"
+            android:label="@string/title_activity_mind"
+            android:parentActivityName=".Education"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Education" />
+        </activity>
+        <activity
+            android:name=".turn"
+            android:label="@string/title_activity_turn"
+            android:parentActivityName=".Education"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Education" />
+        </activity>
+        <activity
+            android:name=".spell"
+            android:label="@string/title_activity_spell"
+            android:parentActivityName=".Education"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Education" />
+        </activity>
+        <activity
+            android:name=".just"
+            android:label="@string/title_activity_just"
+            android:parentActivityName=".Education"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Education" />
+        </activity>
+        <activity
+            android:name=".group"
+            android:label="@string/title_activity_group"
+            android:parentActivityName=".Education"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Education" />
+        </activity>
+        <activity
+            android:name=".writting"
+            android:label="@string/title_activity_writting"
+            android:parentActivityName=".Education"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Education" />
+        </activity>
+        <activity
+            android:name=".vocoid"
+            android:label="@string/title_activity_vocoid"
+            android:parentActivityName=".Cultural"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Cultural" />
+        </activity>
+        <activity
+            android:name=".step"
+            android:label="@string/title_activity_step"
+            android:parentActivityName=".Cultural"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Cultural" />
+        </activity>
+        <activity
+            android:name=".roadies"
+            android:label="@string/title_activity_roadies"
+            android:parentActivityName=".Cultural"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Cultural" />
+        </activity>
+        <activity
+            android:name=".rangoli"
+            android:label="@string/title_activity_rangoli"
+            android:parentActivityName=".Cultural"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Cultural" />
+        </activity>
+        <activity
+            android:name=".got"
+            android:label="@string/title_activity_got"
+            android:parentActivityName=".Cultural"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Cultural" />
+        </activity>
+        <activity
+            android:name=".dumb"
+            android:label="@string/title_activity_dumb"
+            android:parentActivityName=".Cultural"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Cultural" />
+        </activity>
+        <activity
+            android:name=".dueto"
+            android:label="@string/title_activity_dueto"
+            android:parentActivityName=".Cultural"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Cultural" />
+        </activity>
+        <activity
+            android:name=".dance"
+            android:label="@string/title_activity_dance"
+            android:parentActivityName=".Cultural"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Cultural" />
+        </activity>
+        <activity
+            android:name=".antakshari"
+            android:label="@string/title_activity_antakshari"
+            android:parentActivityName=".Cultural"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Cultural" />
+        </activity>
+        <activity
+            android:name=".musical"
+            android:label="@string/title_activity_musical"
+            android:parentActivityName=".Sports"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Sports" />
+        </activity>
+        <activity
+            android:name=".volleyball"
+            android:label="@string/title_activity_volleyball"
+            android:parentActivityName=".Sports"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Sports" />
+        </activity>
+        <activity
+            android:name=".tugofwar"
+            android:label="@string/title_activity_tugofwar"
+            android:parentActivityName=".Sports"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Sports" />
+        </activity>
+        <activity
+            android:name=".tabletennis"
+            android:label="@string/title_activity_tabletennis"
+            android:parentActivityName=".Sports"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Sports" />
+        </activity>
+        <activity
+            android:name=".nfs"
+            android:label="@string/title_activity_nfs"
+            android:parentActivityName=".Sports"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Sports" />
+        </activity>
+        <activity
+            android:name=".counterStrike"
+            android:label="@string/title_activity_counter_strike"
+            android:parentActivityName=".Sports"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Sports" />
+        </activity>
+        <activity
+            android:name=".pubg"
+            android:label="@string/title_activity_pubg"
+            android:parentActivityName=".Sports"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Sports" />
+        </activity>
+        <activity
+            android:name=".kabaddi"
+            android:label="@string/title_activity_kabaddi"
+            android:parentActivityName=".Sports"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Sports" />
+        </activity>
+        <activity
+            android:name=".khokho"
+            android:label="@string/title_activity_khokho"
+            android:parentActivityName=".Sports"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Sports" />
+        </activity>
+        <activity
+            android:name=".chess"
+            android:label="@string/title_activity_chess"
+            android:parentActivityName=".Sports"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Sports" />
+        </activity>
+        <activity
+            android:name=".cricket"
+            android:label="@string/title_activity_cricket"
+            android:parentActivityName=".Sports"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Sports" />
+        </activity>
+        <activity
+            android:name=".carrom"
+            android:label="@string/title_activity_carrom"
+            android:parentActivityName=".Sports"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.Sports" />
+        </activity>
+        <activity
+            android:name=".Sports"
+            android:label="@string/title_activity_sports"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Cultural"
+            android:label="@string/title_activity_cultural"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Education"
+            android:label="@string/title_activity_education"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Robotics"
+            android:label="@string/title_activity_robotics"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.exotica.MainActivity" />
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SplashScreen"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Website" />
+    </application>
+
+</manifest>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1051025210478",
+    "firebase_url": "https://exotica-f82fd.firebaseio.com",
+    "project_id": "exotica-f82fd",
+    "storage_bucket": "exotica-f82fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051025210478:android:0d3a7101b8d3c725",
+        "android_client_info": {
+          "package_name": "com.example.exotica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051025210478-9li4s4i31i76a8tbmm97d7hun1371gnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.exotica",
+            "certificate_hash": "25e4c4f26ab1f9a3b99410d0ca0686413a3e1ad4"
+          }
+        },
+        {
+          "client_id": "1051025210478-24rb4e7tbopj379erj82uejhj40cggib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhMUyT3qMU7_s4Dd_z7e3IrnYCjEhWs68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051025210478-24rb4e7tbopj379erj82uejhj40cggib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
